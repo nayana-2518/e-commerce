@@ -196,6 +196,7 @@ export class ProductComponent implements OnInit {
         rowData.p_price,
       ];
       tableRows.push(row);
+      
     });
   }
 
