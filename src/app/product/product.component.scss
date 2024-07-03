@@ -1,0 +1,32 @@
+input {
+    padding: 10px 15px;
+    margin: 8px 0;
+    border: 1px solid #b6b4b4;
+    border-radius: 4px;
+}
+
+.add-value {
+    background-color: #48C9B0;
+    color: white;
+    padding: 14px 20px;
+    border-radius: 4px;
+}
+
+
+th {
+    background-color: #f1f0f0;
+    color: black;
+}
+
+.nav-item:hover {
+    border-bottom: 2px solid rgb(31, 99, 189);
+    color: grey;
+}
+
+
+th,
+td {
+    padding: 10px;
+}
+
+
